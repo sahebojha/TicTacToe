@@ -1,2 +1,2 @@
 # TicTacToe
-TIc Tac Toe Application Using Java
+Tic Tac Toe Application Using Java
